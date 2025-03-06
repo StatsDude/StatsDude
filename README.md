@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi.
+
+Old guy here, who is <i><b>NOT</b></i> trying to get hired anymore.
+
+Using Github as a convenience for my own little pet projects and agenda.
+
+If you can use my code, awesome.
+
+If not...
+I can explain it to you but I can't understand it for you.
 
 <!--
 **StatsDude/StatsDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
