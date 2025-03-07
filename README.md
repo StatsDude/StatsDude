@@ -1,6 +1,6 @@
 ## Hi.
 
-Old guy here, who is <i><b>NOT</b></i> trying to get hired anymore.
+I am <i><b>NOT</b></i> trying to get hired anymore.
 
 Using Github as a convenience for my own little pet projects and agenda.
 
